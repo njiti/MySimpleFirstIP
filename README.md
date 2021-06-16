@@ -5,8 +5,11 @@
 This is a simple website that details things about my life from a work perspective, its purpose is to show my future employer imnformation about me as a developer while diplaying my skills. 
 My website contains a navigation bar and a background colour. It has a simple picture and only made of Html and Css.
 ## Setup/Installation Requirements
-* Clone the repo
-```
+Installation / Setup instruction Open Terminal {Ctrl+Alt+T}
+
+cd MySimpleFirstIP
+
+code . or atom . based on the text editor you have.
 $# My IP project
 #### This is a simple HTML. CSS project on my IP, 2021
 #### By Kamau Francis Kanyua
